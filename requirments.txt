@@ -1,9 +1,0 @@
-streamlit
-langchain
-langchain-core
-langchain-community
-langchain-mistralai
-python-dotenv
-pydantic
-duckduckgo-search
-wikipedia
